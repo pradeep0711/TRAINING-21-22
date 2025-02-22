@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "c:/Users/CVR/Desktop/21-02-25/venv\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
